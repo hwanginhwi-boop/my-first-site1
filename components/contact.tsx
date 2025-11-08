@@ -34,7 +34,7 @@ export function Contact() {
   
   // 기본 데이터
   const defaultInfo = {
-    name: "당신의 이름",
+    name: "황인휘",
     title: "직책/직무",
     company: "",
     experience: "3년 경력",
